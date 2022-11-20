@@ -20,7 +20,7 @@ app_name,icon
 "App Name2",n
 ```
 where `i`/`n` is a utf-8 char(nerd font icon)
-[example config](){Link is broken until i fully setup repo}
+[example config](https://github.com/OlshaMB/icon-leaf/blob/master/example/appsdb/default-olshamb)
 You can pull request yours.
 3. test it by running
 `icon-leaf <desktop id to list apps>` 
