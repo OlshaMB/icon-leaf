@@ -19,11 +19,16 @@ app_name,icon
 "App Name2",n
 ```
 where `i`/`n` is a utf-8 char(nerd font icon)
+
 [example config](https://github.com/OlshaMB/icon-leaf/blob/master/example/appsdb/default-olshamb)
+
 You can pull request yours.
+
 3. test it by running
-`icon-leaf <desktop id to list apps>` 
+`icon-leaf <desktop id to list apps>`
+
 4. Configure it for your bar
 #### example configs
 [`sketchybar - space.sh`](https://gist.github.com/ef223f788d94198a400139a8acb5b39a) - yabai  space script config
+
 You can pull request yours.
