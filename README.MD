@@ -2,8 +2,7 @@
 ### Only mac-yabai is currently supported
 icon-leaf is an app that takes app names for some desktop and takes icons from config file, and matches them for the symbol(nerd tree icon) an outputs them.
 ## Installation
-WIP
-You need to build yourself:
+[WIP] You need to build yourself:
 1. Install rust
 2. run `cargo build --release`
 3. move binary `target/release/icon-leaf` `to /usr/local/bin/` or your bin dir
@@ -14,7 +13,7 @@ Appsdb is located in
 MacOS: `~/Library/Application Support/icon-leaf/appsdb`
 Linux: `~/.config/icon-leaf/appsdb`
 appsdb is a csv file:
-```json
+```js
 app_name,icon
 "App Name",i
 "App Name2",n
